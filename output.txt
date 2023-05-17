@@ -1,0 +1,8 @@
+Ser	1	8
+ger	5	8
+djl	6	8
+vol	1	8
+jok	6	8
+xyw	8	8
+vek	8	8
+pik	5	8
